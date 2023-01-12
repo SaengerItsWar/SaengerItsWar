@@ -1,2 +1,1 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SaengerItsWar&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=merko"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaengerItsWar&layout=compact&theme=merko&card_width=250&hide_border=true"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SaengerItsWar&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=merko"/> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaengerItsWar&layout=compact&theme=merko&card_width=250&hide_border=true"/>
